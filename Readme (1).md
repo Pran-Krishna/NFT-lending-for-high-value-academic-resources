@@ -5,6 +5,7 @@ The NFT Lending Platform is a smart contract built on Ethereum, designed to enab
 
 ## Contract Address
 0xa1FE6c5da2D6b6621765cd63773aB9D1A6F1B532
+![{5617313D-78A4-4AC1-B850-87EEDB113B6F}](https://github.com/user-attachments/assets/e786b46c-f435-44f6-9dfd-a98023e66a70)
 
 ## Project Vision
 The project aims to create a decentralized ecosystem for sharing and utilizing NFTs effectively. By enabling time-bound lending, this platform promotes the responsible use of digital assets and encourages collaboration among NFT owners and borrowers.
